@@ -162,4 +162,5 @@ cython_debug/
 *.json
 *.model
 model_cache/models--mistralai--Mistral-7B-Instruct-v0.1/refs/main
-*.py
+/model_cache
+/vectorstore.db
