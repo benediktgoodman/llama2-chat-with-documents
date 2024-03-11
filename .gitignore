@@ -164,3 +164,4 @@ cython_debug/
 model_cache/models--mistralai--Mistral-7B-Instruct-v0.1/refs/main
 /model_cache
 /vectorstore.db
+.api_keys.env
